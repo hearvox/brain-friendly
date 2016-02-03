@@ -1,3 +1,5 @@
+https://github.com/hearvox/brain-friendly/blob/master/brain-friendly-interviews.md
+
 Audiofile: RJI-Golding-brain-Alex_Remington-20151211.mp3
 Alex Remington
 
@@ -9,10 +11,10 @@ Alex Remington
 Examples:
 https://www.rjionline.org/stories/results-are-in-a-cleaner-webpage-design-equals-more-engaged-readers
 
-First example- Friendly:
-https://www.rjionline.org/images/posts/times01.png
 
-First example- Unfriendly:
+Example 1- Friendly:
+https://www.rjionline.org/images/posts/times01.png
+Example 1- Unfriendly:
 https://www.rjionline.org/images/posts/worldhealth01.png
 * There's advertising all over this page.
 * The headline is left-justified but right below the headline is a series of ads.
@@ -30,6 +32,23 @@ Reading Path:
 * Eye-tracking, much of it on print pages. The way the eye naturally goes.
 
 Whitespace:
-* Whitespace is not created equal, just like ads is not all created equal. What matters most is where a thing is on the page. In the brain-unfriendly example on the top there's a great deal of whitespace on the right, but it doesn't do a lot of good because your eye isn't naturally drawn there anyway.
+* Whitespace is not created equal, just like ads is not all created equal. What matters most is where a thing is on the page. Having whitespace around text might no make that much of a difference. In the brain-unfriendly example on the top there's a great deal of whitespace on the right, but it doesn't do a lot of good because your eye isn't naturally drawn there anyway. It's not emphasizing or helping to set off a page element. And if there were an ad in that slot it might not make it more brain-unfriendly.
+* Whitespace can set off a point of emphasis to train the eye: This is where the story is on the page geographically. But if you've already done that with other page elements, including the headline and byline, whitespace itself may not be that much of a difference maker.
 
+Found thes online.
+
+
+
+
+Example 2- Friendly:
+https://www.rjionline.org/images/posts/business01.png
+Example 2- Unfriendly:
+https://www.rjionline.org/images/posts/oil01.png
+
+Example 3- Friendly:
+https://www.rjionline.org/images/posts/precision01.png
+Example 2- Unfriendly:
+https://www.rjionline.org/images/posts/obama01.png
+
+________________________________
 Audiofile: RJI-Golding-brain-Paul_Bolls-20151214.mp3
