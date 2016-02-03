@@ -6,6 +6,8 @@ Alex Remington
 * In that kind of normal eye-path, how much stuff is there that is completely irrelevant to the story? All of thoase are going to be distracting, and their going to cause the brain to have to work harder to find out what it is the story is supposed to be.
 * [BG note: in print nothing disturbs the flow but maybe a page jump.]
 
+Examples:
+https://www.rjionline.org/stories/results-are-in-a-cleaner-webpage-design-equals-more-engaged-readers
 * Count the page elements. Try to classify the direction, the path the story takes along the page.
 
 
