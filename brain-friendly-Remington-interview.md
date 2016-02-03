@@ -4,15 +4,13 @@ Articles:
 https://www.rjionline.org/stories/results-are-in-a-cleaner-webpage-design-equals-more-engaged-readers
 
 Audiofile: RJI-Golding-brain-Alex_Remington-20151211.mp3
-Alex Remington
+
+Alex Remington interview notes
 
 * Biggest rule of thumb: elements on the page that got in the way of a normal expected progression of reading the story.
 * How people read the page: a little bit across and then a lot down.
 * In that kind of normal eye-path, how much stuff is there that is completely irrelevant to the story? All of thoase are going to be distracting, and their going to cause the brain to have to work harder to find out what it is the story is supposed to be.
 * [BG note: in print nothing disturbs the flow but maybe a page jump.]
-
-
-
 
 Example 1- Friendly:
 https://www.rjionline.org/images/posts/times01.png
@@ -57,8 +55,6 @@ Photo placement:
 * Unfriendly: Reversed. What's immediately under the headline is supplementary, and, if I remember correctly, the assets are not specifically associated with the story.
 
 Did not focus on font or font-size. Medium: easier to read?
-
-
 
 Example 3- Friendly:
 https://www.rjionline.org/images/posts/precision01.png
