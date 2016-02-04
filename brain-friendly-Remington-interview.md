@@ -1,9 +1,10 @@
-https://github.com/hearvox/brain-friendly/blob/master/brain-friendly-interviews.md
+https://github.com/hearvox/brain-friendly/
 
 Articles:
 https://www.rjionline.org/stories/results-are-in-a-cleaner-webpage-design-equals-more-engaged-readers
 
 Audiofile: RJI-Golding-brain-Alex_Remington-20151211.mp3
+_____________________
 
 Alex Remington interview notes
 
