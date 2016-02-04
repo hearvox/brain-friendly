@@ -65,7 +65,3 @@ https://www.rjionline.org/images/posts/obama01.png
 * The video is certainly related. But the question is: Will you as a reader click that video? If you do then its no great leap. If you don't that still from the video is not illustrate anything: the video takes you away from the story -- it forces you to scroll to see where the story picks back up -- it's a jump.
 * I don't think it matters that this publisher isn't a broadcaster. Realize many readers will not watch the video -- particularly a reader on the phone, on the subway who doesn't have 3G connectivity right then. They can certainly read text because it's already loaded. They might no be able to view the video.
 * There are certainly use case where a reader doesn't want to -- maybe they don't have headphones -- or can't view that particular element. Those readers are only going to be forced to jump. So it's a question of who the design is serving.
-
-
-________________________________
-Audiofile: RJI-Golding-brain-Paul_Bolls-20151214.mp3
