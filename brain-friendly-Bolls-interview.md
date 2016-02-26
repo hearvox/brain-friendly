@@ -3,7 +3,7 @@ Paul Bolls interview
 
 2015-12-14 Interviewed by Neeley Ann Current (NAC).
 
-*Article:*"Results are in: A cleaner webpage design equals more engaged readers"
+*Article:*"Results are in: A cleaner webpage design equals more engaged readers"<br />
 https://www.rjionline.org/stories/results-are-in-a-cleaner-webpage-design-equals-more-engaged-readers
 
 ## Transcription
