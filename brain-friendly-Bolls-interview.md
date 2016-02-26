@@ -1,11 +1,13 @@
 
-** Paul Bolls interview notes **
+Paul Bolls interview notes
+=====================
+
 
 Article:
 https://www.rjionline.org/stories/results-are-in-a-cleaner-webpage-design-equals-more-engaged-readers
 
 
-00:20 NAC (Neeley Ann Current): When you decide what’s brain friendly or not, what descriptors helped you the decision?
+*00:20 NAC (Neeley Ann Current): When you decide what’s brain friendly or not, what descriptors helped you the decision?*
 
 0:40 This distinction between brain friendly and brain unfriendly, at its foundational level, first and foremost, is grounded in these fundamental truths about how the brain operates, how it perceives, takes in, evaluates, remembers, and evaluates information.
 
@@ -112,4 +114,5 @@ The example for of the brain friendly stories that we have here, again going dow
 19:48 You’ve got to decide. I think one version of that is brain friendly and the other is brain unfriendly and, I think, brain friendly is obviously better.
 
 Audiofile: RJI-Golding-brain-Paul_Bolls-20151214.mp3
+
 Transcription: https://github.com/hearvox/brain-friendly/blob/master/brain-friendly-Bolls-interview.md
