@@ -6,8 +6,7 @@ Paul Bolls interview
 *Article:*
 https://www.rjionline.org/stories/results-are-in-a-cleaner-webpage-design-equals-more-engaged-readers
 
-Transcription
-_________________
+## Transcription
 
 *0:20 NAC: When you decide what’s brain friendly or not, what descriptors helped you the decision?*
 
@@ -114,6 +113,6 @@ The example for of the brain friendly stories that we have here, again going dow
 19:05 It real come down to a fundamental truth for me: Do you want to focus on delivering a great journalistic experience, that achieves the good of Journalism — and, in my mind, can actually also be profitable journalism? Or do you want to just throw your hands up in the air and say: “Society has changed,and we have all this this technology, and so you people are like little gnats. We have to give them this, this, this, and this, and this.” Because they’re going to go all over the place.
 
 19:48 You’ve got to decide. I think one version of that is brain friendly and the other is brain unfriendly and, I think, brain friendly is obviously better.
-
+__________________________
 * Audiofile: RJI-Golding-brain-Paul_Bolls-20151214.mp3
 * Transcription: https://github.com/hearvox/brain-friendly/blob/master/brain-friendly-Bolls-interview.md
