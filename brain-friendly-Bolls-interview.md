@@ -1,13 +1,15 @@
-
-Paul Bolls interview notes
+Paul Bolls interview
 =====================
 
+2015-12-14 Interviewed by Neeley Ann Current (NAC).
 
-Article:
+*Article:*
 https://www.rjionline.org/stories/results-are-in-a-cleaner-webpage-design-equals-more-engaged-readers
 
+Transcription
+_________________
 
-*00:20 NAC (Neeley Ann Current): When you decide what’s brain friendly or not, what descriptors helped you the decision?*
+*0:20 NAC: When you decide what’s brain friendly or not, what descriptors helped you the decision?*
 
 0:40 This distinction between brain friendly and brain unfriendly, at its foundational level, first and foremost, is grounded in these fundamental truths about how the brain operates, how it perceives, takes in, evaluates, remembers, and evaluates information.
 
@@ -27,7 +29,7 @@ That's the most important point: at its highest conceptual level, that's the bro
 
 3:48 I think the shorter, more concise, bite size paragraphs in an online environment makes it easier for the brain to process and remember that information. Then if you combine that with an effective reading path then, I think, that amplifies how a design feature a feature of online news writing can work together to make for brain friendly presentation 
 
-4:14 NAC: But don’t news sites sometime want them to be distracted and notice the ads, or is that an old school of thought?
+*4:14 NAC: But don’t news sites sometime want them to be distracted and notice the ads, or is that an old school of thought?*
 
 4:35 I think that's leftover thinking from an older school of advertising. The old push model, the model that says as brands you have to shout, you have to grab attention, I think that is an old model that I think is — thank God — quickly dying away.
 
@@ -39,7 +41,7 @@ That's the most important point: at its highest conceptual level, that's the bro
 
 5:59 Because the brain is a controlled processor, we've developed the ability to just completely tune out distracting elements. They may get us for a moment, and evoke some negative emotion, and lead to poor user experience — which is just obviously not good for an online news organization wanted to build a relationship with an audience in the first place. Or the user is just going to block it out: banner ad blindness.
 
-6:27 NAC: How do you look at ad placement?
+*6:27 NAC: How do you look at ad placement?*
 
 6:37 From a research design perspective we honestly did not do much with ad placement. In launching this research, what Alex and I did is the first step. It’s early research.
 
@@ -47,7 +49,7 @@ That's the most important point: at its highest conceptual level, that's the bro
 
 7:19 So what Alex and I focused on was the design of the story. I obviously have my own theoretical ideas about how to integrate advertising effectively in that environment, but those ideas don't have any empirical backing just yet. They will sometime soon, but not yet.
 
-7:42 NAC: Let’s take a look at the third component on the brain.
+*7:42 NAC: Let’s take a look at the third component on the brain.*
 
 7:50 Sure. The other one — and this might be a little harder to actually quantify, and it’s a factor that’s a little less under the control of news producers and designers — and that is that the brain is a motivated processor. First and foremost, you have to remember that the mission of the brain is, in milliseconds, immediately determine the motivation significance of any information in our sensory environment.
 
@@ -55,7 +57,7 @@ That's the most important point: at its highest conceptual level, that's the bro
 
 8:39 You can do that with with with effective news writing, in how you tell a story — using more narrative style writing, with the words that you actually choose. How you write a headline for the story can capture attention, make the story more brain friendly. Because emotion actually make the story easier to process, easier to remember.
 
-9:05 NAC: What were some of the factors in determining one article is brain-friendly, another is not, like the ones in the RJI article? 
+*9:05 NAC: What were some of the factors in determining one article is brain-friendly, another is not, like the ones in the RJI article?*
 
 9:30 I literally went down the examples of brain friendly and said: How are these paragraph structured? Are they shorter? Are there a lot of distracting elements on the page that are not semantically related to the focus of the news story?
 
@@ -63,7 +65,7 @@ That's the most important point: at its highest conceptual level, that's the bro
 
 10:39 In terms of the most important factors that we really weighted in the study, though, it really came down to really focusing in on: The brain is limited capacity processor — looking at the structure of paragraphs, and the presence of distracting elements. And the brain is contextual process. Just in terms of how well the page layout maintained a consistent symantec theme, again, tying into those distracting elements. 
 
-11:15 NAC: So after all this research, what would you tell designers?
+*11:15 NAC: So after all this research, what would you tell designers?*
 
 11:20 The big takeaway is: Clean it up. Big time, clean it up. 
 
@@ -83,7 +85,7 @@ The example for of the brain friendly stories that we have here, again going dow
 
 13:37 It's capturing attention with a little bit of emotion but not interfering with the experience of reading and trying to remember and learn from the story.
 
-13:50 NAC: What about some other concerns newspapers have: We want our scoial media icons visible — to immediately let everybody know about it and share?
+*13:50 NAC: What about some other concerns newspapers have: We want our scoial media icons visible — to immediately let everybody know about it and share?*
 
 14:13 This is my opinion, informed by brain science: I think the industry needs to rethink how it even attempts to engage readers in social media activity. I think that the industry first needs to clean this up and deliver a great online news reader experience. Then they might actually have a larger community of readers and audience members willing to engage at the level of social media sharing.
 
@@ -91,13 +93,13 @@ The example for of the brain friendly stories that we have here, again going dow
 
 15:01 You don't have to worry about disrupting that if you’ve first and foremost delivered a brain effective story, in a well-designed, well-written manner. Because then you might have a reader that might naturally be more motivated to go:  “Hey, this is worth sharing; this is worth commenting on. I'm going to engage in this process of news and how it's supposed to promote democracy.”
 
-15:30 NAC: Isn’t in the interest of the online news sites to posting multiple articles that may be related. You may see that as a distractor, but that’s also in the interest of the journalists: to drive readers to other stories?
+*15:30 NAC: Isn’t in the interest of the online news sites to posting multiple articles that may be related. You may see that as a distractor, but that’s also in the interest of the journalists: to drive readers to other stories?*
 
 15:55 I think the most brain friendly design would be to get those more at the bottom of the story, and not in a place where there is visually disrupting processing the story that a person landed on to read. Let the reader having her experience of reading the story they selected to read. And then, I think honestly, if you delivered a great reader experience with how that story is designed and written, I don't think you have to worry as much about motivating people to go to other content on your news site.
 
 16:36 You’ll have them higher engaged mentally, at a higher emotionally motivated level as a news reader, as an audience member for your news organization. Then when they get to the bottom of that story and they see: “Oh, I might want to read this other story that’s related. At the bottom: don't throw everything in there at once on a page, because really what you doing it just kinda hoping the something gets through, and that’s brain unfriendly.
 
-[17:08 BG: The headline for this: Social engagement starts with... engagement.] 
+*[17:08 BG: The headline: Social engagement starts with... engagement.]* 
 
 17:25 The tendency is we have to show all components. We have have the social media visible at all times, to have the links to other articles visible, and the ads.
 
@@ -113,6 +115,5 @@ The example for of the brain friendly stories that we have here, again going dow
 
 19:48 You’ve got to decide. I think one version of that is brain friendly and the other is brain unfriendly and, I think, brain friendly is obviously better.
 
-Audiofile: RJI-Golding-brain-Paul_Bolls-20151214.mp3
-
-Transcription: https://github.com/hearvox/brain-friendly/blob/master/brain-friendly-Bolls-interview.md
+* Audiofile: RJI-Golding-brain-Paul_Bolls-20151214.mp3
+* Transcription: https://github.com/hearvox/brain-friendly/blob/master/brain-friendly-Bolls-interview.md
