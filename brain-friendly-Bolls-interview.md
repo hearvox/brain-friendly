@@ -87,6 +87,8 @@ The example for of the brain friendly stories that we have here, again going dow
 
 13:37 It's capturing attention with a little bit of emotion but not interfering with the experience of reading and trying to remember and learn from the story.
 
+## Social engagement starts with... engagement
+
 *13:50 NAC: What about some other concerns newspapers have: We want our scoial media icons visible — to immediately let everybody know about it and share?*
 
 14:13 This is my opinion, informed by brain science: I think the industry needs to rethink how it even attempts to engage readers in social media activity. I think that the industry first needs to clean this up and deliver a great online news reader experience. Then they might actually have a larger community of readers and audience members willing to engage at the level of social media sharing.
@@ -99,13 +101,13 @@ The example for of the brain friendly stories that we have here, again going dow
 
 15:55 I think the most brain friendly design would be to get those more at the bottom of the story, and not in a place where there is visually disrupting processing the story that a person landed on to read. Let the reader having her experience of reading the story they selected to read. And then, I think honestly, if you delivered a great reader experience with how that story is designed and written, I don't think you have to worry as much about motivating people to go to other content on your news site.
 
-## Social engagement starts with... engagement
 16:36 You’ll have them higher engaged mentally, at a higher emotionally motivated level as a news reader, as an audience member for your news organization. Then when they get to the bottom of that story and they see: “Oh, I might want to read this other story that’s related. At the bottom: don't throw everything in there at once on a page, because really what you doing it just kinda hoping the something gets through, and that’s brain unfriendly. 
 
 17:25 The tendency is we have to show all components. We have have the social media visible at all times, to have the links to other articles visible, and the ads.
 
 17:44 Why do they they have to be visible at all times? It’s that “at all times” that I'm picking on. Not everything has to be visible at all times. In fact I would argue, that's part of what has pushed the industry into this brain unfriendly territory, Not everything has to be at all times, if you're delivering a great user experience.
 
+## A great journalistic experience
 18:00 Let them have their story. When they get down to the sound of the end of the story, then you can introduce these other elements. Social engagement begins with engagement.
 
 18:18 I think that’s a concern with multimedia: We’ve got to have video; we got to have audio. I think socially we’re saying: We’re just a faster paced society. We have more technology. We have a shorter attention span. So, of course, we need to provide more options, and spaces for people to go.
