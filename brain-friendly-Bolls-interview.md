@@ -1,4 +1,4 @@
-Paul Bolls interview
+# Paul Bolls interview
 =====================
 
 2015-12-14 Interviewed by Neeley Ann Current (NAC).
@@ -14,6 +14,7 @@ https://www.rjionline.org/stories/results-are-in-a-cleaner-webpage-design-equals
 
 That's the most important point: at its highest conceptual level, that's the broadest distinction between brain friendly and brain unfriendly. Design and layout of online presentation of information that is brain friendly is going to be structured in a way that will work effectively with those bring truths, rather than against those brain turths, Obviously working with the brain truths would be brain friendly, and working against would be brain unfriendly.
 
+## The brain is a limited capacity processor
 1:33 So these three truths. First and foremost, and probably the most important one in terms of how information appears typically in online news sites is that you have to remember that the brain is a limited capacity processor. What that means is that the brain only has so many resources to allocate all the mental tasks that go on in, just what I described before which is, perceiving, paying attention to, trying to remember, and learn information.
 
 2:02 And it has to simultaneously shift attention and effort between the tasks. And so there's a cost. For every task the brain has to work harder at, there are fewer resources left over to process other tasks.
@@ -36,6 +37,7 @@ That's the most important point: at its highest conceptual level, that's the bro
 
 5:26 So I think we've got to get rid of that old school of: we've got to disrupt; we got to interrupt. That is certainly brain unfriendly.
 
+## The brain is a contextual processor
 5:35 Because the second brain truth to remember is that the brain is a contextual processor. So anything that that pulls processing away from the central idea of what the what the individual user is focused on is going to be either frustrating, an emotionally negative user experience, or in the case of banner ad blindness ignore it.
 
 5:59 Because the brain is a controlled processor, we've developed the ability to just completely tune out distracting elements. They may get us for a moment, and evoke some negative emotion, and lead to poor user experience — which is just obviously not good for an online news organization wanted to build a relationship with an audience in the first place. Or the user is just going to block it out: banner ad blindness.
@@ -50,6 +52,7 @@ That's the most important point: at its highest conceptual level, that's the bro
 
 *7:42 NAC: Let’s take a look at the third component on the brain.*
 
+## The brain is a motivated processor
 7:50 Sure. The other one — and this might be a little harder to actually quantify, and it’s a factor that’s a little less under the control of news producers and designers — and that is that the brain is a motivated processor. First and foremost, you have to remember that the mission of the brain is, in milliseconds, immediately determine the motivation significance of any information in our sensory environment.
 
 8:20  So from a new perspective what that means is that, in terms of reporting and delivering the news, journalists shouldn’t be afraid of emotion. That motivates the brain to process; that signals importance to the brain.
@@ -62,7 +65,7 @@ That's the most important point: at its highest conceptual level, that's the bro
 
 9:50  Also, and this admittedly is not a very scientific way to handle the motivator processing part of this, is just my own gut sense, is there any element in here that’s portraying emotion, such as good photographs? For instance, on the third story you've got a new kind of warm emotionally warm picture of a male and a female embracing each other. That's going to be attention grabbing. That’s evoking mild levels of positive emotion, that can flow and carry over into how the story is read and processed
 
-10:39 In terms of the most important factors that we really weighted in the study, though, it really came down to really focusing in on: The brain is limited capacity processor — looking at the structure of paragraphs, and the presence of distracting elements. And the brain is contextual process. Just in terms of how well the page layout maintained a consistent symantec theme, again, tying into those distracting elements. 
+10:39 In terms of the most important factors that we really weighted in the study, though, it really came down to really focusing in on: The brain is limited capacity processor — looking at the structure of paragraphs, and the presence of distracting elements. And the brain is contextual processor. Just in terms of how well the page layout maintained a consistent symantec theme, again, tying into those distracting elements. 
 
 *11:15 NAC: So after all this research, what would you tell designers?*
 
@@ -96,9 +99,8 @@ The example for of the brain friendly stories that we have here, again going dow
 
 15:55 I think the most brain friendly design would be to get those more at the bottom of the story, and not in a place where there is visually disrupting processing the story that a person landed on to read. Let the reader having her experience of reading the story they selected to read. And then, I think honestly, if you delivered a great reader experience with how that story is designed and written, I don't think you have to worry as much about motivating people to go to other content on your news site.
 
-16:36 You’ll have them higher engaged mentally, at a higher emotionally motivated level as a news reader, as an audience member for your news organization. Then when they get to the bottom of that story and they see: “Oh, I might want to read this other story that’s related. At the bottom: don't throw everything in there at once on a page, because really what you doing it just kinda hoping the something gets through, and that’s brain unfriendly.
-
-*[17:08 BG: The headline: Social engagement starts with... engagement.]* 
+## Social engagement starts with... engagement
+16:36 You’ll have them higher engaged mentally, at a higher emotionally motivated level as a news reader, as an audience member for your news organization. Then when they get to the bottom of that story and they see: “Oh, I might want to read this other story that’s related. At the bottom: don't throw everything in there at once on a page, because really what you doing it just kinda hoping the something gets through, and that’s brain unfriendly. 
 
 17:25 The tendency is we have to show all components. We have have the social media visible at all times, to have the links to other articles visible, and the ads.
 
