@@ -118,7 +118,6 @@ The example for of the brain friendly stories that we have here, again going dow
 
 19:48 You’ve got to decide. I think one version of that is brain friendly and the other is brain unfriendly and, I think, brain friendly is obviously better.
 
-test edit
 __________________________
 * Audiofile: RJI-Golding-brain-Paul_Bolls-20151214.mp3
 * Transcription: https://github.com/hearvox/brain-friendly/blob/master/brain-friendly-Bolls-interview.md
